@@ -1,1 +1,1 @@
-# quantum-compute
+# Quantum-Compute
